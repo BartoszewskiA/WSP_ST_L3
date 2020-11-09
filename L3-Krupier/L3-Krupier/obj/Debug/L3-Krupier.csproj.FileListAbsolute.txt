@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_ST_L3\L3-Krupier\L3-Krupier\bin\Debug\L3-Krupier.exe.config
+J:\Programy 2020\WSP_ST_L3\L3-Krupier\L3-Krupier\bin\Debug\L3-Krupier.exe
+J:\Programy 2020\WSP_ST_L3\L3-Krupier\L3-Krupier\bin\Debug\L3-Krupier.pdb
+J:\Programy 2020\WSP_ST_L3\L3-Krupier\L3-Krupier\obj\Debug\L3-Krupier.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_ST_L3\L3-Krupier\L3-Krupier\obj\Debug\L3_Krupier.Form1.resources
+J:\Programy 2020\WSP_ST_L3\L3-Krupier\L3-Krupier\obj\Debug\L3_Krupier.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_L3\L3-Krupier\L3-Krupier\obj\Debug\L3-Krupier.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_L3\L3-Krupier\L3-Krupier\obj\Debug\L3-Krupier.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_L3\L3-Krupier\L3-Krupier\obj\Debug\L3-Krupier.exe
+J:\Programy 2020\WSP_ST_L3\L3-Krupier\L3-Krupier\obj\Debug\L3-Krupier.pdb

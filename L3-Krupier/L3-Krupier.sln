@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L3-Krupier", "L3-Krupier\L3-Krupier.csproj", "{04EB53E0-6A59-4267-8A0B-1AD9E2F65807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04EB53E0-6A59-4267-8A0B-1AD9E2F65807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EB53E0-6A59-4267-8A0B-1AD9E2F65807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EB53E0-6A59-4267-8A0B-1AD9E2F65807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EB53E0-6A59-4267-8A0B-1AD9E2F65807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3AAB18C-1FAE-408B-92B4-633CFA36F203}
+	EndGlobalSection
+EndGlobal
