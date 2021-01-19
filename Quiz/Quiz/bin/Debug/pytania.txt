@@ -1,0 +1,30 @@
+Liczby całkowite przechowywać możemy w zmiennych typu: (wykreślić wszystkie nieprawidłowe):
+int;
+flout;
+double;
+1
+Jaki będzie wynik działania 7/9*9 (w C i C++)?
+1 
+0.08642
+0
+3
+Ile wynosi wartość wyrażenia 22 % 5
+2 
+4
+0
+1
+Jaki jest ostatni numer indeksu w tablicy 100 znakowej?
+100
+99 
+101
+2
+Jaki znak kończy wszystkie łańcuchy znakowe (string)?
+\0 (znak o numerze zero)
+.
+\END
+1
+Do wylosowania liczby z zakresu <-10;100> (włącznie) służy polecenie:
+rand=100-10;
+rand()%111 - 10
+x=rand(-10,100);
+2

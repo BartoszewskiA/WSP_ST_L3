@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_ST_L3\Quiz\Quiz\bin\Debug\Quiz.exe.config
+J:\Programy 2020\WSP_ST_L3\Quiz\Quiz\bin\Debug\Quiz.exe
+J:\Programy 2020\WSP_ST_L3\Quiz\Quiz\bin\Debug\Quiz.pdb
+J:\Programy 2020\WSP_ST_L3\Quiz\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_ST_L3\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+J:\Programy 2020\WSP_ST_L3\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_L3\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_L3\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_L3\Quiz\Quiz\obj\Debug\Quiz.exe
+J:\Programy 2020\WSP_ST_L3\Quiz\Quiz\obj\Debug\Quiz.pdb

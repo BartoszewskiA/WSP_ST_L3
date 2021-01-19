@@ -1,0 +1,11 @@
+J:\Programy 2020\WSP_ST_L3\OknaModalneBazaDanych\OknaModalneBazaDanych\bin\Debug\OknaModalneBazaDanych.exe.config
+J:\Programy 2020\WSP_ST_L3\OknaModalneBazaDanych\OknaModalneBazaDanych\bin\Debug\OknaModalneBazaDanych.exe
+J:\Programy 2020\WSP_ST_L3\OknaModalneBazaDanych\OknaModalneBazaDanych\bin\Debug\OknaModalneBazaDanych.pdb
+J:\Programy 2020\WSP_ST_L3\OknaModalneBazaDanych\OknaModalneBazaDanych\obj\Debug\OknaModalneBazaDanych.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_ST_L3\OknaModalneBazaDanych\OknaModalneBazaDanych\obj\Debug\OknaModalneBazaDanych.Form1.resources
+J:\Programy 2020\WSP_ST_L3\OknaModalneBazaDanych\OknaModalneBazaDanych\obj\Debug\OknaModalneBazaDanych.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_L3\OknaModalneBazaDanych\OknaModalneBazaDanych\obj\Debug\OknaModalneBazaDanych.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_L3\OknaModalneBazaDanych\OknaModalneBazaDanych\obj\Debug\OknaModalneBazaDanych.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_L3\OknaModalneBazaDanych\OknaModalneBazaDanych\obj\Debug\OknaModalneBazaDanych.exe
+J:\Programy 2020\WSP_ST_L3\OknaModalneBazaDanych\OknaModalneBazaDanych\obj\Debug\OknaModalneBazaDanych.pdb
+J:\Programy 2020\WSP_ST_L3\OknaModalneBazaDanych\OknaModalneBazaDanych\obj\Debug\OknaModalneBazaDanych.Form2.resources

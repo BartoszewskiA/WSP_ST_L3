@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_ST_L3\TimerOpuznionyStartProgramu\TimerOpuznionyStartProgramu\bin\Debug\TimerOpuznionyStartProgramu.exe.config
+J:\Programy 2020\WSP_ST_L3\TimerOpuznionyStartProgramu\TimerOpuznionyStartProgramu\bin\Debug\TimerOpuznionyStartProgramu.exe
+J:\Programy 2020\WSP_ST_L3\TimerOpuznionyStartProgramu\TimerOpuznionyStartProgramu\bin\Debug\TimerOpuznionyStartProgramu.pdb
+J:\Programy 2020\WSP_ST_L3\TimerOpuznionyStartProgramu\TimerOpuznionyStartProgramu\obj\Debug\TimerOpuznionyStartProgramu.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_ST_L3\TimerOpuznionyStartProgramu\TimerOpuznionyStartProgramu\obj\Debug\TimerOpuznionyStartProgramu.Form1.resources
+J:\Programy 2020\WSP_ST_L3\TimerOpuznionyStartProgramu\TimerOpuznionyStartProgramu\obj\Debug\TimerOpuznionyStartProgramu.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_L3\TimerOpuznionyStartProgramu\TimerOpuznionyStartProgramu\obj\Debug\TimerOpuznionyStartProgramu.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_L3\TimerOpuznionyStartProgramu\TimerOpuznionyStartProgramu\obj\Debug\TimerOpuznionyStartProgramu.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_L3\TimerOpuznionyStartProgramu\TimerOpuznionyStartProgramu\obj\Debug\TimerOpuznionyStartProgramu.exe
+J:\Programy 2020\WSP_ST_L3\TimerOpuznionyStartProgramu\TimerOpuznionyStartProgramu\obj\Debug\TimerOpuznionyStartProgramu.pdb

@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_ST_L3\Plikitekstoe_listy\Plikitekstoe_listy\bin\Debug\Plikitekstoe_listy.exe.config
+J:\Programy 2020\WSP_ST_L3\Plikitekstoe_listy\Plikitekstoe_listy\bin\Debug\Plikitekstoe_listy.exe
+J:\Programy 2020\WSP_ST_L3\Plikitekstoe_listy\Plikitekstoe_listy\bin\Debug\Plikitekstoe_listy.pdb
+J:\Programy 2020\WSP_ST_L3\Plikitekstoe_listy\Plikitekstoe_listy\obj\Debug\Plikitekstoe_listy.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_ST_L3\Plikitekstoe_listy\Plikitekstoe_listy\obj\Debug\Plikitekstoe_listy.Form1.resources
+J:\Programy 2020\WSP_ST_L3\Plikitekstoe_listy\Plikitekstoe_listy\obj\Debug\Plikitekstoe_listy.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_L3\Plikitekstoe_listy\Plikitekstoe_listy\obj\Debug\Plikitekstoe_listy.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_L3\Plikitekstoe_listy\Plikitekstoe_listy\obj\Debug\Plikitekstoe_listy.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_L3\Plikitekstoe_listy\Plikitekstoe_listy\obj\Debug\Plikitekstoe_listy.exe
+J:\Programy 2020\WSP_ST_L3\Plikitekstoe_listy\Plikitekstoe_listy\obj\Debug\Plikitekstoe_listy.pdb
